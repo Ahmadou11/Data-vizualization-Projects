@@ -10,3 +10,10 @@ This project is part of Microsoft's Power Up Program, titled "Animal Shelter Ana
   - Trends (in the last 3 months):
   - Most rescued type of animal
   - Most fostered type of animal
+    
+## Project: Creating a report for the school library to determine borrowing trends.
+Objectives:
+  - Total number of loans
+  - Number of books borrowed each day
+  - Students who borrow the most books
+    
