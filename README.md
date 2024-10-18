@@ -16,4 +16,8 @@ Objectives:
   - Total number of loans
   - Number of books borrowed each day
   - Students who borrow the most books
+
+## Projet d'Analyse de Données avec Excel : Transactions du Commerce de Détail en Ligne
+L’objectif est d’analyser les données commercial d’une boutique en ligne basé au Royaume-Uni mais qui vend à l’international 
+afin de mieux comprendre les performances des ventes, le comportement des clients et les tendances des produits..
     
