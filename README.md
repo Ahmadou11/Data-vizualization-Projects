@@ -20,4 +20,6 @@ Objectives:
 ## Projet d'Analyse de Données avec Excel : Transactions du Commerce de Détail en Ligne
 L’objectif est d’analyser les données commercial d’une boutique en ligne basé au Royaume-Uni mais qui vend à l’international 
 afin de mieux comprendre les performances des ventes, le comportement des clients et les tendances des produits..
+
+## Projet Analysis Call Center from USA : My goal here was to analyze the performance and efficiency of the call center in the United States.
     
